@@ -1,1 +1,0 @@
-# jnr-pagina-de-perguntas
